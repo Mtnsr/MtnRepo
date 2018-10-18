@@ -1,0 +1,10 @@
+C:\Users\Metin\Desktop\Traveler\Traveler\bin\Debug\Traveler.exe.config
+C:\Users\Metin\Desktop\Traveler\Traveler\bin\Debug\Traveler.exe
+C:\Users\Metin\Desktop\Traveler\Traveler\bin\Debug\Traveler.pdb
+C:\Users\Metin\Desktop\Traveler\Traveler\obj\Debug\Traveler.csprojAssemblyReference.cache
+C:\Users\Metin\Desktop\Traveler\Traveler\obj\Debug\Traveler.Form1.resources
+C:\Users\Metin\Desktop\Traveler\Traveler\obj\Debug\Traveler.Properties.Resources.resources
+C:\Users\Metin\Desktop\Traveler\Traveler\obj\Debug\Traveler.csproj.GenerateResource.cache
+C:\Users\Metin\Desktop\Traveler\Traveler\obj\Debug\Traveler.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\Traveler\Traveler\obj\Debug\Traveler.exe
+C:\Users\Metin\Desktop\Traveler\Traveler\obj\Debug\Traveler.pdb
