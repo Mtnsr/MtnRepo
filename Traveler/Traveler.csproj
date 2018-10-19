@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{395CB9AD-0C13-466D-8443-F22FD86D3DC5}</ProjectGuid>
+    <ProjectGuid>{EF549A13-05C0-4C39-AB78-0A53DB3A12F8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Traveler</RootNamespace>
     <AssemblyName>Traveler</AssemblyName>
@@ -52,6 +52,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Models\IMovement.cs" />
+    <Compile Include="Models\IRobot.cs" />
+    <Compile Include="Models\Robot.cs" />
+    <Compile Include="Models\RotateMap.cs" />
+    <Compile Include="Models\Statics.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -79,5 +84,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

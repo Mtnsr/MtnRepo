@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traveler", "Traveler\Traveler.csproj", "{395CB9AD-0C13-466D-8443-F22FD86D3DC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traveler", "Traveler\Traveler.csproj", "{EF549A13-05C0-4C39-AB78-0A53DB3A12F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{395CB9AD-0C13-466D-8443-F22FD86D3DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{395CB9AD-0C13-466D-8443-F22FD86D3DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{395CB9AD-0C13-466D-8443-F22FD86D3DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{395CB9AD-0C13-466D-8443-F22FD86D3DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF549A13-05C0-4C39-AB78-0A53DB3A12F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF549A13-05C0-4C39-AB78-0A53DB3A12F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF549A13-05C0-4C39-AB78-0A53DB3A12F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF549A13-05C0-4C39-AB78-0A53DB3A12F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {70322F5A-26D7-47DC-BDE5-B67EDDAA7C77}
+		SolutionGuid = {4E3A4B4B-45F9-4E3C-9DC7-9E22C31553C0}
 	EndGlobalSection
 EndGlobal
